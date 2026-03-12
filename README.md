@@ -6,25 +6,9 @@
 
 ## Languages
 - One-time experience: Rust
-- Small experience: Python, x64 Assembly, Matlab, HTML, CSS
-- Moderate experience: C, C++
+- Small experience: x64 Assembly, Matlab, HTML, CSS, LaTeX
+- Moderate experience: C, C++, Python
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldinu2030&show_icons=true)
-
-
-<!--
-**danieldinu2030/danieldinu2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldyn&show_icons=true)
