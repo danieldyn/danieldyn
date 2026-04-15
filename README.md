@@ -9,6 +9,10 @@
 - Small experience: x64 Assembly, Matlab, HTML, CSS, LaTeX
 - Moderate experience: C, C++, Python
 
+## 3D Contribution Graph
+
+![Contributions](./profile-3d-contrib/profile-green-animate.svg)
+
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldyn&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldyn&show_icons=true&theme=radical)
