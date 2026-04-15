@@ -11,7 +11,7 @@
 
 ## 3D Contribution Graph
 
-![Contributions](./profile-3d-contrib/profile-green-animate.svg)
+![Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 ## Stats
 
