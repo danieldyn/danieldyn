@@ -1,0 +1,12 @@
+{
+  "name": "danieldyn-readme",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "generate-langs": "node scripts/lang-chart.js"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
+
