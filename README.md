@@ -5,9 +5,8 @@
 - I'm trying to find open source projects I can contribute to when I have the time
 
 ## Languages
-- One-time experience: Rust
-- Small experience: x64 Assembly, Matlab, HTML, CSS, LaTeX
-- Moderate experience: C, C++, Python
+
+![Languages](./langs-chart/donut.svg)
 
 ## 3D Contribution Graph
 
