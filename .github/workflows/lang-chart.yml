@@ -27,7 +27,7 @@ jobs:
           fi
       - name: Generate languages SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.LANGS_PAT }}
           USERNAME: ${{ github.repository_owner }}
         run: npm run generate-langs
       - name: Commit & Push
