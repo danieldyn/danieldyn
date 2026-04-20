@@ -28,7 +28,7 @@ async function fetchAllRepos() {
   const repos = [];
   let page = 1;
   while (true) {
-    const url = `https://api.github.com/users/${USERNAME}/repos?per_page=100&page=${page}`;
+    const url = `https://api.github.com/user/repos?per_page=100&page=${page}&affiliation=owner&visibility=all`;
     const data = await request(url);
     if (!data || data.length === 0) break;
     repos.push(...data);
