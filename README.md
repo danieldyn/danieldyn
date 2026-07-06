@@ -14,4 +14,5 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldyn&show_icons=true&theme=tokyonight)
+[![My GitFut card](https://gitfut.com/danieldyn.png)](https://gitfut.com/danieldyn)
+
