@@ -14,5 +14,5 @@
 
 ## Stats
 
-[![My GitFut card](https://gitfut.com/danieldyn.png)](https://gitfut.com/danieldyn)
+[![My GitFut card](https://gitfut.com/danieldyn.png =200x400)](https://gitfut.com/danieldyn)
 
