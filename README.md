@@ -13,10 +13,11 @@
 - Helped as an [Obsidian](https://obsidian.md/) app UI localiser for Romanian
 - Interested in videogames, posted personal passion projects on [my GitHub Pages](https://danieldyn.github.io/)
 
-## Languages and GitFut Stats
+## Languages, GitFut Stats and Profile Koi
 
 ![Languages](./langs-chart/donut.svg)
 <a href="https://gitfut.com/danieldyn"><img src="https://gitfut.com/danieldyn.png" width="180" alt="GitFut card"></a>
+<img src="koi/koi.gif" width="256" alt="My koi">
 
 ## 3D Contribution Graph
 
